@@ -8,6 +8,7 @@ A repository to explore the data science behind fascism
 * Find corpus or writing by other known Fascists
 * Similarity Compare
 * Look at GPT-3 and other models
+* Look at Graph Database descriptive statistics like centrality.
 
 ## References
 
